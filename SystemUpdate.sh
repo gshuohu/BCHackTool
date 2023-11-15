@@ -2,7 +2,7 @@
 
 ## SystemUpdate ##
 
-function ok {
+function ok {8
     echo "ok" &> /dev/null
 }
 
